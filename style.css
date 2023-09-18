@@ -1,9 +1,54 @@
-body{
-background-color: rgb(255, 213, 220);
-font-size: 100px;
+body {
+    background-color: #ffc0cb;
+
+    font-family: 'Lateef', serif;
 }
-h1 {
-    color: #000000;
+
+.main-header {
     text-align: center;
-    font-size: 50px;
+    color: #9a3e52;
+    margin: 25px 25px 50px 50px;
+    font-size: 100px;
+}
+
+.image-one {
+    text-align: center;
+    background-color: #fde5e5;
+    border-radius: 50px;
+    margin: 30px 300px;
+    padding: 50px;
+    padding-bottom: 50px;
+    font-size: 18px;
+}
+#ruby{
+    height: 700px;
+    width: auto;
+}
+
+.image-two{
+    text-align: center;
+    background-color: #fde5e5;
+    border-radius: 50px;
+    margin: 30px 300px;
+    padding: 50px;
+    padding-bottom: 50px;
+    font-size: 18px;
+}
+#child{
+    height: 700px;
+    width: 650px;
+}
+
+.image-three{
+    text-align: center;
+    background-color: #fde5e5;
+    border-radius: 50px;
+    margin: 30px 300px;
+    padding: 50px;
+    padding-bottom: 50px;
+    font-size: 18px;
+}
+#dog{
+    height: 700px;
+    width: 650px;
 }
